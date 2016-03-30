@@ -1,2 +1,5 @@
 # Android1001
-All my android example code 
+
+## LocationExample  
+
+### Get location information from locationManager
